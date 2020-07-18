@@ -1,0 +1,314 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08/06/2020, 20:38:03
+    Author     : Sara
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#secao-01{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-02{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-03{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-04{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-05{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-06{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-07{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-08{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-09{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-10{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-11{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-12{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-13{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-14{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-15{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+#secao-16{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+.secao{
+    position: relative;
+}
+
+.icone-scroll{
+    position: absolute;
+    bottom: 3em;
+    width: 50px;
+    height: 50px;
+    background-color: #FFA07A;
+    border-radius: 50%;
+    left: 50%;
+    margin-left: -25px;
+    cursor: pointer;
+}
+
+.scroll{
+    width: 15px;
+    height: 15px;
+    border-right: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    display: inline-block;
+    position: relative;     
+}
+
+.scroll-next{
+    transform: rotate(45deg);
+    margin: 14px 0 0 16.5px;
+}
+
+.scroll-top{
+    transform: rotate(225deg);
+    margin: 19px 0 0 17px;
+}
+
+.scroll-top + .scroll-top{
+    top: -15px;
+    margin-top: 0;
+        
+}
+
+h2{
+    color: #8B8989;
+}
+
+h1{
+    color: #8B8989;
+}
+    
+
+#imagem1{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+
+#imagem2{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem3{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem4{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem5{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem6{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem7{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem8{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem9{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem10{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem11{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem12{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem13{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem14{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
+#imagem15{
+    float: left;
+    margin: 1px 4px 0 50px;
+    padding: 10px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+    background-color: #ffffff; /* Aqui você pode trocar a cor */
+    border: 1px solid #dbdbdb;
+}
+
